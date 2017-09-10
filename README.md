@@ -59,7 +59,7 @@ http://every-rating.com/android/android-studiovt-xenableenable-vt-x-in-your-bios
 
 
 
-### 6. 参照設定
+## 6. 参照設定
 AndroidのLibraryが参照されてないみたいなことを言われるので，それを設定する
 
 [AndroidでOpenFrameworksを使用する。](https://gist.github.com/ujhrkzy/52e0265c09d2639b7ee4)
@@ -69,12 +69,12 @@ AndroidのLibraryが参照されてないみたいなことを言われるので
     サンプルプロジェクトをインポートするとofxAndroidが参照できないとエラーがでるので、下記にあるofAndroidLibをインポートする。
     of_v0.8.4_android_release/addons/ofxAndroid/ofAndroidLib
 
-### 7. ofxAndroidの更新
+## 7. ofxAndroidの更新
 
 ofxAndroidのいくつかのソースファイルがおかしかったので，gitからダウンロードしたofxAndroidのソースコードを上書き
 C:\Users\n.iwamoto\Desktop\oF_Android\of_v0.9.3_android_release\addons\ofxAndroid\ofAndroidLib\src\cc\openframeworks
 
-### 8. 絶賛躓き中
+## 8. 絶賛躓き中
 
 ビルドが通り，アプリ起動まで至ったがアプリがすぐに落ちてその先に行けず...．
 とりあえず，今後のoF側のAndroidサポートに期待するとする．
